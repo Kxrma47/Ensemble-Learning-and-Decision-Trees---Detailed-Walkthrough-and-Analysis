@@ -1,4 +1,4 @@
-# README: Ensemble Learning and Decision Trees - Detailed Walkthrough and Analysis
+# Ensemble Learning and Decision Trees - Detailed Walkthrough and Analysis
 
 ---
 
